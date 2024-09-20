@@ -4,7 +4,7 @@ Book Library Assignment
 
 ## Setup Instructions Frontend & Backend
 
-1. Clone the repository
+1. Clone the repository and cd client
 2. Run `npm install` to install dependencies
 3. Run `npm start` to start the development server
 4. Open `http://localhost:3000` in your browser
@@ -30,6 +30,6 @@ A simple RESTful API for managing a library's book collection using Node.js, Exp
 
 ```bash
 git clone https://github.com/Vedant0370/Synkrama-Book-Assignment.git
-cd library-api
+cd server
 
 
