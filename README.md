@@ -29,7 +29,7 @@ A simple RESTful API for managing a library's book collection using Node.js, Exp
 ### 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/Vedant0370/library-api.git](https://github.com/Vedant0370/Synkrama-Book-Assignment)
+git clone https://github.com/Vedant0370/Synkrama-Book-Assignment.git
 cd library-api
 
 
