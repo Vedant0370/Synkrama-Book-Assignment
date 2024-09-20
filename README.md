@@ -30,6 +30,11 @@ A simple RESTful API for managing a library's book collection using Node.js, Exp
 
 ```bash
 git clone https://github.com/Vedant0370/Synkrama-Book-Assignment.git
-cd server
+Frontend cd client
+npm install
 
+Backend
+cd server
+npm install
+.env add mongodb string
 
